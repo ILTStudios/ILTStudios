@@ -41,7 +41,7 @@ I'm an aspiring **Aerospace Engineer** with a passion for building things **from
 
 ## 📫 Contact Me
 
-- [LinkedIn]([your-link](https://www.linkedin.com/in/shreyas-vartia/))  
+- [LinkedIn](https://www.linkedin.com/in/shreyas-vartia/)
 - [Email](mailto:vartias.shreyas@gmail.com)  
 
 ---
