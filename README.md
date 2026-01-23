@@ -35,7 +35,7 @@ I'm an aspiring **Aerospace Engineer** with a passion for building things **from
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ILTStudios&show_icons=true&theme=radical)
 
 ---
 
