@@ -17,9 +17,9 @@ I'm an aspiring **Aerospace Engineer** with a passion for building things **from
 
 - **[Transformer from Scratch](https://github.com/ILTStudios/llm_transformer_scratch)** – Implemented a full transformer model in NumPy with backpropagation, training a character-level LLM.  
 - **[Neural Network from Scratch](https://github.com/ILTStudios/mnist-nn-scratch)** – Built a multilayer perceptron from scratch and trained it on MNIST.  
-- **[4-Bit Full Adder Calculator]([link-to-repo](https://github.com/ILTStudios/4-bit-adder))** – Designed and simulated a 4-bit full adder using KiCad.  
-- **[Pulse Oximeter Display]([link-to-repo](https://github.com/ILTStudios/pulse-oximeter-display-pcb-))** – PCB design for a pulse oximeter with display using KiCad.  
-- **[Full Stack User Platform]([link-to-repo](https://github.com/ILTStudios/betatest.quest))** – Full-stack application integrating multiple technologies for backend + frontend functionality.  
+- **[4-Bit Full Adder Calculator](https://github.com/ILTStudios/4-bit-adder)** – Designed and simulated a 4-bit full adder using KiCad.  
+- **[Pulse Oximeter Display](https://github.com/ILTStudios/pulse-oximeter-display-pcb-)** – PCB design for a pulse oximeter with display using KiCad.  
+- **[Full Stack User Platform](https://github.com/ILTStudios/betatest.quest)** – Full-stack application integrating multiple technologies for backend + frontend functionality.  
 
 *Check out my repositories for detailed READMEs and demos!*
 
